@@ -1,4 +1,5 @@
 Solution for the Case - Risk Intern - Neo Investimentos
+
 2022, January
 
 
