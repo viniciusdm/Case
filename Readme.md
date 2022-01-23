@@ -21,16 +21,14 @@ Finally, we have the file with the Portfolio Optimization Solution, using Excel:
 
 In general, the results achieved with the algorithm in Python and with the commands in Excel, were equivalent as shown below (results in decimal values).
 
-***MSR - Excel***
-![MSR - Excel [Grande]](Img/MSR.png "MSR - Excel")
+***MSR - Excel***\
+![MSR - Excel [Grande]](Imgs/MSR-Excel.png "MSR - Excel")
 
-***GMV - Excel***
-![GMV - Excel [Grande]](Img/GMV.png "GMV - Excel")
+***GMV - Excel***\
+![GMV - Excel [Grande]](Imgs/GMV-Excel.png "GMV - Excel")
 
+And finally, the results obtained with Python:
 
-<<<<<<< HEAD
-Thank you for the opportunity to participate in the selection process.
-=======
 ***MSR - Python***\
 ![MSR - Python [Grande]](Imgs/MSR-Python.png "MSR - Python")
 
@@ -44,4 +42,3 @@ That's it, Thank you for the opportunity to participate in the selection process
 
 End
 ==============
->>>>>>> 5763117f718890d1fb2e22108de78ae8a20bb7d7
