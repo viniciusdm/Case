@@ -28,4 +28,20 @@ In general, the results achieved with the algorithm in Python and with the comma
 ![GMV - Excel [Grande]](Img/GMV.png "GMV - Excel")
 
 
+<<<<<<< HEAD
 Thank you for the opportunity to participate in the selection process.
+=======
+***MSR - Python***\
+![MSR - Python [Grande]](Imgs/MSR-Python.png "MSR - Python")
+
+***GMV - Python***\
+![GMV - Python [Grande]](Imgs/GMV-Python.png "GMV - Python")
+
+***Efficient Frontier***\
+![Efficient Frontier [Grande]](Imgs/Efficient-Frontier.png "Efficient Frontier")
+
+That's it, Thank you for the opportunity to participate in the selection process.
+
+End
+==============
+>>>>>>> 5763117f718890d1fb2e22108de78ae8a20bb7d7
