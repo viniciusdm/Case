@@ -1,4 +1,5 @@
-%Case Neo - Risk Intern | 2022, January
+Case Neo - Risk Intern | 2022, January
+==============
 
 For the solution developed using a Programming Language, Python was selected, and the result with all the requested (and tabulated) Output Data, as requested in item 2, can be found in the file named:
 
