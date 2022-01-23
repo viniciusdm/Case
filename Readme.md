@@ -19,4 +19,14 @@ Finally, we have the file with the Portfolio Optimization Solution, using Excel:
 
 >MyProcessedDataFinal.xlsx.
 
+In general, the results achieved with the algorithm in Python and with the commands in Excel, were equivalent as shown below (results in decimal values).
+
+***MSR - Excel***
+![alt text for screen readers](MSR.png "MSR - Excel")
+
+***GMV - Excel***
+![alt text for screen readers](GMV.png "MSR - Excel")
+
+
+
 Thank you for the opportunity to participate in the selection process.
