@@ -21,6 +21,9 @@ Finally, we have the file with the Portfolio Optimization Solution, using Excel:
 
 In general, the results achieved with the algorithm in Python and with the commands in Excel, were equivalent as shown below (results in decimal values).
 
+***Overview - Assets%%%\
+![Data [Grande]](Imgs/Data.png "Data")
+
 ***MSR - Excel***\
 ![MSR - Excel [Grande]](Imgs/MSR-Excel.png "MSR - Excel")
 
