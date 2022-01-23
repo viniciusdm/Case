@@ -1,7 +1,7 @@
 Case Neo - Risk Internship | 2022, January
 ==============
 
-For the solution developed using a Programming Language, Python was selected, and the result with all the requested (and tabulated) Output Data, as requested in item 2, can be found in the file named:
+For the solution developed using The Programming Language, Python was selected, and the result with all the requested (and tabulated) Output Data, as requested in item 2, can be found in the file named:
 
 >pythonSolution.ipynb
 
@@ -19,7 +19,7 @@ Finally, we have the file with the Portfolio Optimization Solution, using Excel:
 
 >MyProcessedDataFinal.xlsx.
 
-In general, the results achieved with the algorithm in Python and with the commands in Excel, were equivalent as shown below (results in decimal values).
+In general, the results achieved with the algorithm in Python and with the commands in Excel were equivalent as shown below (results in decimal values).
 
 ***Overview - Assets***\
 ![Data [Grande]](Imgs/Data.png "Data")
