@@ -39,7 +39,7 @@ And finally, the results obtained with Python:
 ![GMV - Python [Grande]](Imgs/GMV-Python.png "GMV - Python")
 
 ***Efficient Frontier***\
-![Efficient Frontier [Grande]](Imgs/Efficient-Frontier.png "Efficient Frontier")
+![Efficient Frontier [Grande]](Imgs/My-Efficient-Frontier.png "Efficient Frontier")
 
 That's it, Thank you for the opportunity to participate in the selection process.
 
