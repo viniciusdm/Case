@@ -38,11 +38,7 @@ And finally, the results obtained with Python:
 ***Efficient Frontier***
 ![GMV - Python [Grande]](Imgs/Efficient Frontier.png "GMV - Excel")
 
+That's it, Thank you for the opportunity to participate in the selection process.
 
-
-
-
-
-
-
-Thank you for the opportunity to participate in the selection process.
+End
+==============
